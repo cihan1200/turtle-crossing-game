@@ -15,7 +15,7 @@ This is a simple arcade-style game developed using Python's Turtle graphics libr
 ### Prerequisites
 
 - Python 3.x installed on your system.
-- Download the `main.exe` to play OR,
+- Download the `main.exe` inside `dist` folder to play OR,
 - Clone the repository:
     ```bash
     git clone https://github.com/cihan1200/turtle-crossing-game.git
