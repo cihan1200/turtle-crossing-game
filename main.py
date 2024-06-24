@@ -38,7 +38,7 @@ while game_is_on:
     time.sleep(0.1)
     s.update()
 
-    # Increment the spawn timer and add a new car every 30 iterations
+    # Increment the spawn timer and add a new car every 5 iterations
     spawn_timer += 1
     if spawn_timer == 5:
         car = Cars()
